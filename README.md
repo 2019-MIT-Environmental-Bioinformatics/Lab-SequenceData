@@ -7,3 +7,5 @@
 2. Lecture on sequencing technologies
 3. [Downloading sequences from the SRA](SRA.md)
 5. [Introduction to Blast](Blast.md)
+6. [Lecture on sequence alignment](https://docs.google.com/presentation/d/1AMr1C1t7jl8ybqwZKMvoOn5kTxwaiDEmuGZ88lgSBZw/edit?usp=sharing)
+7. [Lab on sequence quality](Quality.md)
